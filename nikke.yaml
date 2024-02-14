@@ -1,0 +1,13 @@
+# NAME: nikke
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nikke
+# COUNT: 6
+# UPDATED: 2024-02-14 00:24:49
+
+payload:
+- "+.nikke-de.com"
+- "+.nikke-en.com"
+- "+.nikke-fr.com"
+- "+.nikke-jp.com"
+- "+.nikke-kr.com"
+- "+.nikke-sea.com"

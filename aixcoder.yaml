@@ -1,0 +1,9 @@
+# NAME: aixcoder
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/aixcoder
+# COUNT: 2
+# UPDATED: 2024-02-14 00:24:49
+
+payload:
+- "+.aixcoder.com"
+- "+.nnthink.com"

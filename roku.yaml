@@ -1,0 +1,13 @@
+# NAME: roku
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/roku
+# COUNT: 6
+# UPDATED: 2024-02-14 00:24:49
+
+payload:
+- "+.fandango.com"
+- "+.mgo-images.com"
+- "+.mgo.com"
+- "+.ravm.tv"
+- "+.roku.com"
+- "+.rokutime.com"

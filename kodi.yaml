@@ -1,0 +1,9 @@
+# NAME: kodi
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/kodi
+# COUNT: 2
+# UPDATED: 2024-02-14 00:24:49
+
+payload:
+- "+.kodi.tv"
+- "+.kodi.wiki"

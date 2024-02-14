@@ -1,0 +1,8 @@
+# NAME: infrapedia
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/infrapedia
+# COUNT: 1
+# UPDATED: 2024-02-14 00:24:48
+
+payload:
+- "+.infrapedia.com"

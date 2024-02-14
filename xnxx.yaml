@@ -1,0 +1,12 @@
+# NAME: xnxx
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/xnxx
+# COUNT: 5
+# UPDATED: 2024-02-14 00:24:48
+
+payload:
+- "+.xnxx-cdn.com"
+- "+.xnxx.com"
+- "+.xnxx.net"
+- "+.xnxx.tv"
+- "+.xnxx3.com"

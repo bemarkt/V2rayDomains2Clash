@@ -1,0 +1,11 @@
+# NAME: mojang
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/mojang
+# COUNT: 4
+# UPDATED: 2024-02-14 00:24:48
+
+payload:
+- "+.callersbane.com"
+- "+.minecraft.net"
+- "+.minecraftshop.com"
+- "+.mojang.com"

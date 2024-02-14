@@ -1,0 +1,10 @@
+# NAME: nypost
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/nypost
+# COUNT: 3
+# UPDATED: 2024-02-14 00:24:49
+
+payload:
+- "+.nypost.com"
+- "+.nypost.help"
+- "+.nypostreprints.com"

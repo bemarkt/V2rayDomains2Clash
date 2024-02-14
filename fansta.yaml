@@ -1,0 +1,9 @@
+# NAME: fansta
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/fansta
+# COUNT: 2
+# UPDATED: 2024-02-14 00:24:49
+
+payload:
+- "+.fansta.me"
+- "misa-prod.s3.ap-northeast-1.amazonaws.com"

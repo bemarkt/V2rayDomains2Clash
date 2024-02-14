@@ -1,0 +1,9 @@
+# NAME: morisawa
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/morisawa
+# COUNT: 2
+# UPDATED: 2024-02-14 00:24:48
+
+payload:
+- "+.morisawa.co.jp"
+- "+.typesquare.com"

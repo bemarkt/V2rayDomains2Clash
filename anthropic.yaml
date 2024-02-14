@@ -1,0 +1,10 @@
+# NAME: anthropic
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/anthropic
+# COUNT: 3
+# UPDATED: 2024-02-14 00:24:48
+
+payload:
+- "+.anthropic.com"
+- "+.claude.ai"
+- "servd-anthropic-website.b-cdn.net"

@@ -1,0 +1,12 @@
+# NAME: category-finance
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/category-finance
+# COUNT: 5
+# UPDATED: 2024-02-14 00:24:49
+
+payload:
+- "+.fxcorporate.com"
+- "+.mql5.com"
+- "+.tradingview.com"
+- "+.transferwise.com"
+- "+.wise.com"

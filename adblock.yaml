@@ -1,0 +1,8 @@
+# NAME: adblock
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/adblock
+# COUNT: 1
+# UPDATED: 2024-02-14 00:24:49
+
+payload:
+- "+.getadblock.com"

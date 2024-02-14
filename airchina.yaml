@@ -1,0 +1,9 @@
+# NAME: airchina
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/airchina
+# COUNT: 2
+# UPDATED: 2024-02-14 00:24:49
+
+payload:
+- "+.airchina.com.cn"
+- "+.airchinacargo.com"

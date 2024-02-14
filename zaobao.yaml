@@ -1,0 +1,10 @@
+# NAME: zaobao
+# BEHAVIOR: domain
+# SOURCE: https://github.com/v2fly/domain-list-community/tree/master/data/zaobao
+# COUNT: 3
+# UPDATED: 2024-02-14 00:24:48
+
+payload:
+- "+.zaobao.com"
+- "+.zaobao.com.sg"
+- "+.zaobao.sg"
