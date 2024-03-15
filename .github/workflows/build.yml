@@ -7,7 +7,10 @@ on:
     branches:
       - main
     paths-ignore:
+      - "**/.github/**"
       - "**/README.md"
+env:
+  TZ: Asia/Shanghai
 jobs:
   build:
     name: Build
